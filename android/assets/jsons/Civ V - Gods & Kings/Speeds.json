@@ -25,7 +25,7 @@
         "scienceCostModifier": 0.67,
         "cultureCostModifier": 0.67,
         "faithCostModifier": 0.67,
-        "improvementBuildLengthModifier": 0.67,
+        "improvementBuildLengthModifier": 0.40,
         "barbarianModifier": 0.67,
         "goldGiftModifier": 1.25,
         "cityStateTributeScalingInterval": 5.0,
